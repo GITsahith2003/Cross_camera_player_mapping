@@ -78,5 +78,5 @@ Matching: Cosine similarity of combined features
 📎 SUBMISSION NOTES
 
 - This project is self-contained and reproducible
-- Code runs in `cross_camera_player_mapping.ipynb`
+- Code runs in `soccer_player_mapping.ipynb`
 - Make sure videos and model weights are added manually
