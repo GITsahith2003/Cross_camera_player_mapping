@@ -17,6 +17,7 @@ Step 1: Download and upload these files in a new folder :
 - broadcast.mp4
 - tacticam.mp4
 - best.pt (YOLO model weights)
+- sort.py (sorting module)
 
 Step 2: Install dependencies
 
